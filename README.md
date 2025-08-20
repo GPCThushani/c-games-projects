@@ -7,3 +7,7 @@ This repository contains simple **C programming games and programs** developed f
 4. **Number Patterns** – Prints number-based patterns using loops.
 5. **Star Patterns** – Prints star-based shapes and designs.
 6. **Phone Book / Dictionary** – A simple contact management system storing names and phone numbers.
+7. **Database Table** – Program to store and display tabular data using arrays and structures.
+8. **Library Needs** – Program to manage and track required books in a library.
+9. **Library Management System** – Mini system to add, search, and manage library books using file handling.
+10. **Linked List** – Implementation of a singly linked list with basic operations.
